@@ -1,0 +1,1 @@
+FAQ on Wiki pages at https://github.com/lazierthanthou/sqlite-manager/wiki/Frequently-Asked-Questions
